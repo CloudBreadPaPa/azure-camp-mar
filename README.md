@@ -1,5 +1,5 @@
-# azure camp dec
-이 repo는 2016년 12월 예정된 Azure dev camp 2일차 PaaS 과정에 대한 코드와 hands on 자료를 제공  
+# azure camp mar
+이 repo는 2017년 3월 예정된 Azure dev camp 2일차 PaaS 과정에 대한 코드와 hands on 자료를 제공  
 
 ## Application 개발을 위한 Azure App Service  
 ### Web App / API app / Mobile App 생성과 배포
