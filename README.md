@@ -1,4 +1,6 @@
 # azure camp mar
+
+[![Join the chat at https://gitter.im/azure-camp-mar/Lobby](https://badges.gitter.im/azure-camp-mar/Lobby.svg)](https://gitter.im/azure-camp-mar/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 이 repo는 2017년 3월 예정된 Azure dev camp 2일차 PaaS 과정에 대한 코드와 hands on 자료를 제공  
 
 ## Application 개발을 위한 Azure App Service  
